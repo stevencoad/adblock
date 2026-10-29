@@ -1,0 +1,11 @@
+! Some extra urls to block that aren't on the basic blocklists
+||amarillo.logs.roku.com^
+||amoeba-plus.web.roku.com^
+||digdug-g2.logs.roku.com^
+||digdug.logs.roku.com^
+||i.ads.roku.com^
+||p.ads.roku.com^
+||raps-perf.ravm.tv^
+||raps.ravm.tv^
+||rxr.ravm.tv^
+||track.sr.roku.com^
